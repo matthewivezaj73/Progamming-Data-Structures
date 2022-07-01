@@ -3,3 +3,4 @@ def bubble_sort(arr):
     """
         A function that will sort a list passed to it.
     """
+    pass
