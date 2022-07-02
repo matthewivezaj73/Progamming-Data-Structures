@@ -12,6 +12,6 @@ while not not_done:
     #Handling the case where the user chooses option a.
     if user_choice == "a":
         #Asking the user to input a number.
-        print("Please input a numbe:")
+        print("Please input a number:")
         #Accepting input from the user.
         #Appending the item entered into a list.
