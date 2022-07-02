@@ -7,4 +7,4 @@ def bubble_sort(arr):
     """
     
     #Sorting the list.
-    pass
+    arr.sort()
