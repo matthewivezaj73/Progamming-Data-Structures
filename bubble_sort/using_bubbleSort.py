@@ -28,3 +28,4 @@ while not not_done:
         #Printing the list.
         print(user_list)
     #Handling the case where the user chooses option q.
+    elif(user_choice == "q"):
