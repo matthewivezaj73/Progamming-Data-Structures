@@ -23,5 +23,5 @@ while not not_done:
             user_list.append(user_entry)
     #Handling the case where the user chooses option s.
     elif(user_choice == "s"):
-        #Notifying the user that we are now sorting the list.
+        #Sorting the list.
         user_list.sort()
