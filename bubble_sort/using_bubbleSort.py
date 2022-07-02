@@ -11,4 +11,5 @@ while not not_done:
     user_choice = input("Please enter \'a\' if you would like to add another item to the list.\nPlease enter \'s\' if you would like to sort and print the list.\n\nPlease enter your choice here:\t")
     #Handling the case where the user chooses option a.
     if user_choice == "a":
+        #Asking the user to input a number.
         #Appending the item entered into a list.
