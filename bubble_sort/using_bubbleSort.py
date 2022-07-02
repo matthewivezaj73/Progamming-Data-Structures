@@ -26,3 +26,4 @@ while not not_done:
         #Sorting the list.
         user_list.sort()
         #Printing the list.
+        print(user_list)
