@@ -16,3 +16,4 @@ while not not_done:
         #Accepting input from the user.
         user_entry = input()
         #Appending the item entered into a list.
+        user_list.append(user_entry)
