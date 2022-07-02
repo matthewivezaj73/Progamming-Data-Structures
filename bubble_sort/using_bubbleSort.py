@@ -22,3 +22,4 @@ while not not_done:
             #Appending the item entered into a list.
             user_list.append(user_entry)
     #Handling the case where the user chooses option s.
+    elif(user_choice == "s"):
