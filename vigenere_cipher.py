@@ -2,3 +2,5 @@
 from string import ascii_lowercase
 #Importing repeat, cycle, and islice.
 from itertools import repeat, cycle, islice
+
+#Creating a codebook.
