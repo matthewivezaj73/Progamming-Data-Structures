@@ -18,7 +18,7 @@ while not not_done:
         #Accepting input from the user.
         user_entry = input()
         #Checking if the input is a number.
-        if (('.' in user_entry) and (user_entry.replace('.', '').isdigit()) and (len(user_entry.replace('.', '')) >= 2 and len(user_entry.replace('.', '')) <= 8)) or user_entry.isdigit():
+        if (('.' in user_entry) and (user_entry.replace('.', '').isdigit())) or user_entry.isdigit():
             #Appending the item entered into a list.
             user_list.append(user_entry)
     #Handling the case where the user chooses option s.
