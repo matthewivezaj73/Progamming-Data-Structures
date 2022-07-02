@@ -17,5 +17,5 @@ while not not_done:
         user_entry = input()
         #Checking if the input is a number.
         if user_entry.isdigit():
-        #Appending the item entered into a list.
-        user_list.append(user_entry)
+            #Appending the item entered into a list.
+            user_list.append(user_entry)
