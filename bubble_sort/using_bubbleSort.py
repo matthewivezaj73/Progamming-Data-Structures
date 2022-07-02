@@ -7,6 +7,7 @@ user_list = []
 not_done = False
 #Testing for user input.
 while not not_done:
+    #Printing out instructions to the user.
     #Asking the user if they would like to sort the list.
     user_choice = input()
     #Handling the case where the user chooses option a.
