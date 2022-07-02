@@ -27,3 +27,4 @@ while not not_done:
         user_list.sort()
         #Printing the list.
         print(user_list)
+    #Handling the case where the user chooses option q.
