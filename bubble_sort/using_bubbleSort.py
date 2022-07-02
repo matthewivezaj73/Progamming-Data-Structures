@@ -24,7 +24,7 @@ while not not_done:
     #Handling the case where the user chooses option s.
     elif(user_choice == "s"):
         #Sorting the list.
-        user_list.sort()
+        user_list
         #Printing the list.
         print(user_list)
     #Handling the case where the user chooses option q.
