@@ -1,5 +1,5 @@
 #Importing functions fom bubble_function.py
-from functions.bubble_function import bubble_function
+from functions.bubble_function import bubble_sort
 
 #Creating a blank list.
 user_list = []
