@@ -15,5 +15,7 @@ while not not_done:
         print("Please input a number:")
         #Accepting input from the user.
         user_entry = input()
+        #Checking if the input is a number.
+        
         #Appending the item entered into a list.
         user_list.append(user_entry)
