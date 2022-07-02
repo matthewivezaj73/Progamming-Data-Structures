@@ -29,4 +29,5 @@ while not not_done:
         print(user_list)
     #Handling the case where the user chooses option q.
     elif(user_choice == "q"):
+        #Setting a flag to true.
         not_done = True
