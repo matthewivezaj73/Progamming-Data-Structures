@@ -16,6 +16,6 @@ while not not_done:
         #Accepting input from the user.
         user_entry = input()
         #Checking if the input is a number.
-        if ('-' in date) and (date.replace('-', '').isdigit()) and (len(date.replace('-', '')) >= 2 and len(date.replace('-', '')) <= 8):
+        if ('.' in date) and (date.replace('.', '').isdigit()) and (len(date.replace('.', '')) >= 2 and len(date.replace('.', '')) <= 8):
             #Appending the item entered into a list.
             user_list.append(user_entry)
