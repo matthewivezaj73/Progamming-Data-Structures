@@ -20,7 +20,7 @@ while not not_done:
         #Checking if the input is a number.
         if (('.' in user_entry) and (user_entry.replace('.', '').isdigit())) or user_entry.isdigit():
             #Appending the item entered into a list.
-            user_list.append(user_entry)
+            user_list.append(int(user_entry))
     #Handling the case where the user chooses option s.
     elif(user_choice == "s"):
         #Sorting the list.
