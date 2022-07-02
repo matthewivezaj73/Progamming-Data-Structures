@@ -25,3 +25,4 @@ while not not_done:
     elif(user_choice == "s"):
         #Sorting the list.
         user_list.sort()
+        #Printing the list.
