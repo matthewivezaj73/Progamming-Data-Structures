@@ -5,3 +5,4 @@ from functions.bubble_function import bubble_function
 user_list = []
 #Setting a flag.
 not_done = False
+#Testing for user input.
