@@ -5,4 +5,6 @@ def bubble_sort(arr):
         
         This function takes in a list passed to it.
     """
+    
+    #Sorting the list.
     pass
