@@ -4,3 +4,4 @@ customer_determinations = [
     ("Karen Arnold", "No"),
     ("Skylar Thompson", "Yes")
 ]
+#Setting a flag.
