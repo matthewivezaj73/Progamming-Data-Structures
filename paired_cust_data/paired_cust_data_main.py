@@ -15,3 +15,4 @@ while not not_done:
         #Creating a for loop.
         for line in customer_determinations:
             #Printing out each line.
+            print(line)
