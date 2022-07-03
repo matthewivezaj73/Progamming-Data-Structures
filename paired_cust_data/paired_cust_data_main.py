@@ -29,3 +29,4 @@ while not not_done:
         #Setting a flag.
         not_selection = False
         #Handling the case where the user wants to modify a field.
+        if user_selection.isdigit():
