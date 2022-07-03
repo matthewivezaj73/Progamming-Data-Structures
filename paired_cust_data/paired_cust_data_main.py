@@ -32,6 +32,6 @@ while not not_done:
         if user_selection.isdigit():
             #Accessing the customer data for the element entered.
             #Asking the user for the customer's name.
-            add_cust_data = ("Please enter a customer's name:\t\t")
+            customer_determinations = ("Please enter a customer's name:\t\t")
             #Asking the user for the customer's decision.
             add_cust_decision = ("Please enter a customer's decision:\t\t")
