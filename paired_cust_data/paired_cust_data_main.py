@@ -20,3 +20,4 @@ while not not_done:
     elif user_choice == "a":
         #Asking the user for their name.
         add_cust_data = ("Please enter a customer's name:\t\t")
+        #Asking the user for the customer's decision.
