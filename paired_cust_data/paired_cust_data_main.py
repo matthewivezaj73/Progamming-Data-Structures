@@ -18,5 +18,5 @@ while not not_done:
             print(line)
     #Handling the case where the user enters a.
     elif user_choice == "a":
-        #Asking the user what they would like to add.
+        #Asking the user for their name.
         add_cust_data = ("Please enter a customer's name:\t\t")
