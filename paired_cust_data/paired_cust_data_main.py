@@ -16,3 +16,4 @@ while not not_done:
         for line in customer_determinations:
             #Printing out each line.
             print(line)
+    #Handling the case where the user enters a.
