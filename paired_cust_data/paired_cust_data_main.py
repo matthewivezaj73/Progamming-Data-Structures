@@ -26,6 +26,22 @@ while not not_done:
         add_cust_data = ("Please enter a customer's name:\t\t")
         #Asking the user for the customer's decision.
         add_cust_decision = ("Please enter a customer's decision:\t\t")
+        
+        
+        
+        
+        
+        
+        
+        
+        
+"""
+#
+#
+#   NEED TO REPAIR THE CASE BELOW.
+#
+#
+"""
     #Handling the case where the user enters e.
     elif user_choice == 'e':
         #Instructing the user on how to make a selection.
