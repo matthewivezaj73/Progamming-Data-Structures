@@ -25,3 +25,4 @@ while not not_done:
     #Handling the case where the user enters e.
     elif user_choice == 'e':
         #Instructing the user on how to make a selection.
+        user_selection = input("Please input the value of the field you would like to edit starting from 0:\t\t")
