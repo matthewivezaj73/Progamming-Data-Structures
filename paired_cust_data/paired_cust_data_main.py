@@ -17,3 +17,5 @@ while not not_done:
             #Printing out each line.
             print(line)
     #Handling the case where the user enters a.
+    elif user_choice == "a":
+        
