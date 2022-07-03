@@ -30,6 +30,7 @@ while not not_done:
     elif user_choice == 'e':
         #Instructing the user on how to make a selection.
         user_selection = input("Please input the value of the field you would like to edit (starting from 0):\t\t")
+        #Typecasting user_selection into an int.
         #Setting a flag.
         not_selection = False
         #Handling the case where the user wants to modify a field.
