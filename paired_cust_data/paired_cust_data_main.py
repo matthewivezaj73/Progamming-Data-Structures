@@ -10,3 +10,4 @@ not_done = False
 while not not_done:
     #Requesting user input on what the user would like to do.
     user_choice = input("Please enter what you would like to do with the customer data:\nEnter \'d\' to display the current customer data.\n")
+    #Handling the case where the user enters d.
