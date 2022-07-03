@@ -9,7 +9,7 @@ not_done = False
 #Creating a while loop.
 while not not_done:
     #Requesting user input on what the user would like to do.
-    user_choice = input("Please enter what you would like to do with the customer data:\nEnter \'d\' to display the current customer data.\n")
+    user_choice = input("Please enter what you would like to do with the customer data:\nEnter \'d\' to display the current customer data.\nEnter \'e\' to edit or delete current customer data.\nPlease input your choice here:\t\t")
     #Handling the case where the user enters d.
     if user_choice == "d":
         #Creating a for loop.
