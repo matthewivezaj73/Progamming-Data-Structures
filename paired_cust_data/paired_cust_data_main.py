@@ -8,3 +8,4 @@ customer_determinations = [
 not_done = False
 #Creating a while loop.
 while not not_done:
+    user_choice = input("Please enter what you would like to do with the customer data:")
