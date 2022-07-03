@@ -1,4 +1,8 @@
 #Creating a list of customer determinations contained in a set.
+
+"""
+    Create a method later that loads this information on startup.
+"""
 customer_determinations = [
     ("Doris Johnson", "Yes"),
     ("Karen Arnold", "No"),
