@@ -5,3 +5,4 @@ customer_determinations = [
     ("Skylar Thompson", "Yes")
 ]
 #Setting a flag.
+not_done = False
