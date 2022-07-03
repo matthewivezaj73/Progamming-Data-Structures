@@ -7,3 +7,4 @@ customer_determinations = [
 #Setting a flag.
 not_done = False
 #Creating a while loop.
+while not not_done:
