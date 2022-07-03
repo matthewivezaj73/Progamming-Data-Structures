@@ -30,6 +30,7 @@ while not not_done:
         not_selection = False
         #Handling the case where the user wants to modify a field.
         if user_selection.isdigit():
+            #Accessing the customer data for the element entered.
             #Asking the user for the customer's name.
             add_cust_data = ("Please enter a customer's name:\t\t")
             #Asking the user for the customer's decision.
