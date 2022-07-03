@@ -12,3 +12,4 @@ while not not_done:
     user_choice = input("Please enter what you would like to do with the customer data:\nEnter \'d\' to display the current customer data.\n")
     #Handling the case where the user enters d.
     if user_choice == "d":
+        #Creating a for loop.
