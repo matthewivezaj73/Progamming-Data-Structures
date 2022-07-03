@@ -1,3 +1,4 @@
 customer_determinations = [
-    ("Doris Johnson", "Yes")
+    ("Doris Johnson", "Yes"),
+    ("Karen Isabel", "NO"),
 ]
