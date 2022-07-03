@@ -14,3 +14,4 @@ while not not_done:
     if user_choice == "d":
         #Creating a for loop.
         for line in customer_determinations:
+            #Printing out each line.
