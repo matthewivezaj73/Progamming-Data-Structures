@@ -38,4 +38,4 @@ while not not_done:
             #Asking the user for the customer's name.
             customer_determinations[user_selection][user_selection] = ("Please enter a customer's name:\t\t")
             #Asking the user for the customer's decision.
-            customer_determinations[user_selection][user_selection] = ("Please enter a customer's decision:\t\t")
+            customer_determinations[user_selection][(user_selection)] = ("Please enter a customer's decision:\t\t")
